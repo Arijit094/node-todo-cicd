@@ -15,5 +15,7 @@ Run these commands:
 
 or Run by docker compose
 
+build
 test
+deploy
 
