@@ -15,6 +15,5 @@ Run these commands:
 
 or Run by docker compose
 testing
-build
-hi
+
 
